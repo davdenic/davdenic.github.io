@@ -1,0 +1,12 @@
+# David Denicolò
+
+> Full-stack software engineer in Switzerland. 25+ years on web development, PHP,
+> Python and CI/CD, exploring how to make AI a reliable engineering teammate.
+
+This is the personal landing page at https://davdenic.github.io/.
+
+## Links
+- [Articles](https://davdenic.github.io/articles/): essays on AI-assisted software development and the engineering practices behind it (see https://davdenic.github.io/articles/llms.txt).
+- [CV](https://ddenicolo.netlify.app/): résumé and experience.
+- [Flickr](https://www.flickr.com/photos/davdenic): photography.
+- [LinkedIn](https://www.linkedin.com/in/daviddenicolo/): professional profile.
